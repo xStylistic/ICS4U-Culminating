@@ -1,0 +1,1 @@
+I had to create a new LibGDX project because I originally created it without the Free-Type extension which I didn't know what needed untl I got to fonts. I had to copy all the code into the new project.
